@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Swift-5-orange.svg" />
     <img src="https://img.shields.io/badge/version-1.0-blue.svg" />
     <img src="https://img.shields.io/cocoapods/l/MyCocoapodsLibrary.svg" />
-    <img src="https://img.shields.io/cocoapods/p/MyCocoapodsLibrary.svg?style=flat" alt="Platform" />
+    <img src="https://img.shields.io/cocoapods/p/MyCocoapodsLibrary.svg" />
 </p>
 
 
