@@ -35,7 +35,7 @@ import Pagie
 class ViewController: PagieHome
 ```
 
-3. Fill your pages information by by creating a new instance of `Page` type, and use the initializer to set the initial value of stored properties `title`, `subtitle`, and `imageName`, and set them to `self.pages`.
+3. Create an instance of `Page` type, and use the initializer to set the initial value of properties `title`, `subtitle`, and `imageName`, and set them to `self.pages`.
 ```swift
 let page1 = Page(title: "Discover great events happening in your city", subtitle: "Find events by category and browse list of trending events everyday.", imageName: "page1")
 let page2 = Page(title: "Maximize the value of every event you attend", subtitle: "Stay updated with event details, meet other attendees and get live announcements about important updates.", imageName: "page2")
@@ -53,7 +53,7 @@ pageControl.numberOfPages = self.pages.count
  - Don't forget to add your images to `assets`
 
 ## Demo
-<img src= "https://i.imgur.com/ZvCA7ID.gif" height="560" alt="repetition">
+<img src= "https://i.imgur.com/sRPhhd4.gif" height="560" alt="repetition">
 
 ## Powerful Customization
 Since your app is up and running, you may need to configure, customize, and add your own page.
@@ -158,5 +158,3 @@ When submitting a pull request:
 ### Creator
 **Ahmed Elserafy**
 - <ahmed.samer43@yahoo.com>
-
-**Be the next one**
