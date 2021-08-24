@@ -1,0 +1,6 @@
+framework module Pagie {
+  umbrella header "Pagie-umbrella.h"
+
+  export *
+  module * { export * }
+}

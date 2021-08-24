@@ -1,0 +1,16 @@
+PODS:
+  - Pagie (1.0.0)
+
+DEPENDENCIES:
+  - Pagie (from `../Pagie`)
+
+EXTERNAL SOURCES:
+  Pagie:
+    :path: "../Pagie"
+
+SPEC CHECKSUMS:
+  Pagie: ef3dfdeb760af15cadfad7ca9532e6a51a0bbb0c
+
+PODFILE CHECKSUM: a9d17626f953cc374865293c4725696109c979ba
+
+COCOAPODS: 1.11.0.beta.2

@@ -1,0 +1,6 @@
+framework module Pods_PagieExampleTests {
+  umbrella header "Pods-PagieExampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

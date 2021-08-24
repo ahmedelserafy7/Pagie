@@ -1,0 +1,6 @@
+framework module Pods_PagieExample {
+  umbrella header "Pods-PagieExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
