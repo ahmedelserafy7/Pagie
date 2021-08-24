@@ -3,6 +3,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-5-orange.svg" />
     <img src="https://img.shields.io/badge/version-1.0-blue.svg" />
+    <img src="https://img.shields.io/cocoapods/l/MyCocoapodsLibrary.svg" />
     <img src="https://img.shields.io/cocoapods/p/MyCocoapodsLibrary.svg?style=flat" alt="Platform" />
 </p>
 
@@ -44,7 +45,7 @@ let page4 = Page(title: "Network like a pro!", subtitle: "Join the event's commu
 let pages: [Page] = [page1, page2, page3, page4]
 self.pages = pages
 
-// define how many dots you like:
+// Define how many dots you like:
 pageControl.numberOfPages = self.pages.count
 ```
 
