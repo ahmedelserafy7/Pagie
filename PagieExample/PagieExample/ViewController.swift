@@ -39,7 +39,7 @@ class ViewController: PagieHome {
 //        collectionView.register(MyLoginCell.self, forCellWithReuseIdentifier: myLoginId)
     }
     
-    // Handle getStartedButton method
+    // Configure "getStartedButton" function
     /*
     override func handleGetStartedButton() {
         print("Hello world!")

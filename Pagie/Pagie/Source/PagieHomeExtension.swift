@@ -41,7 +41,7 @@ extension PagieHome {
     }
     
     public func setupPageCell(by collectionView: UICollectionView, and indexPath: IndexPath) -> UICollectionViewCell {
-        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: cellId, for: indexPath) as! PageCell
+        guard let cell = collectionView.dequeueReusableCell(withReuseIdentifier: cellId, for: indexPath) as? PageCell else { return UICollectionViewCell() }
         let page = self.pages[indexPath.item]
         cell.page = page
         return cell
