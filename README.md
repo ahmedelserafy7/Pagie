@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-5-orange.svg" />
-    <img src="https://img.shields.io/badge/version-1.0-blue.svg" />
+    <img src="https://img.shields.io/badge/version-1.0.1-blue.svg" />
     <img src="https://img.shields.io/cocoapods/l/MyCocoapodsLibrary.svg" />
     <img src="https://img.shields.io/cocoapods/p/MyCocoapodsLibrary.svg" />
 </p>
