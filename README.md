@@ -88,7 +88,7 @@ Remove your button:
 ```swift
 getStartedButton.removeFromSuperview()
 ```
-Handle getStartedButton method:
+Configure `getStartedButton` function:
 
 ```swift
 override func handleGetStartedButton() {
@@ -127,7 +127,7 @@ class MyLoginCell: LoginCell {
 }
 ```
 
-Additional sample examples can be found in [`/PagieExample/ViewController`](https://github.com/ahmedelserafy7/Pagie/blob/master/PagieExample/PagieExample/ViewController.swift), and [`/PagieExample/MyLoginCell`](https://github.com/ahmedelserafy7/Pagie/blob/master/PagieExample/PagieExample/MyLoginCell.swift).
+Additional sample examples can be found in [`/PagieExample`](https://github.com/ahmedelserafy7/Pagie/tree/master/PagieExample/PagieExample).
 
 ### Note: 
 Start out simple, and customize when needed.
