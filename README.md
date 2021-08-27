@@ -119,7 +119,7 @@ override func collectionView(_ collectionView: UICollectionView, cellForItemAt i
 ```
 4.  Create your own custom `UICollectionViewCell` subclass:
 ```swift
-import MyPageControl
+import Pagie
 class MyLoginCell: LoginCell {
     override func setupViews() {
         self.backgroundColor = .blue
