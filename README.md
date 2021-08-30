@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Swift-5-orange.svg" />
-    <img src="https://img.shields.io/badge/version-1.0.1-blue.svg" />
+    <img src="https://img.shields.io/badge/version-1.0.2-blue.svg" />
     <img src="https://img.shields.io/cocoapods/l/MyCocoapodsLibrary.svg" />
     <img src="https://img.shields.io/cocoapods/p/MyCocoapodsLibrary.svg" />
 </p>
@@ -15,6 +15,18 @@
 Welcome to Pagie, a flexible library that helps you navigate between pages using gestures.
 
 ## Installation
+
+### Using the Swift Package Manager
+
+Pagie is distributed using the [Swift Package Manager](https://swift.org/package-manager). To install it into a project, go to file -> Swift Packages -> add it as a package dependency, then enter a package repository url which is `https://github.com/ahmedelserafy7/Pagie.git`, click next and one more next, and finish.
+
+Then import Pagie wherever you’d like to use it:
+
+```swift
+import Pagie
+```
+
+### Using CocoaPods
 
 You can use [CocoaPods](https://cocoapods.org) by adding the following line to your `Podfile`:
 
