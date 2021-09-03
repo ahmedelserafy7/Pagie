@@ -148,12 +148,12 @@ Start out simple, and customize when needed.
 
 ## Contributing
 
-Having trouble working with Pagie? Found a typo in the documentation? Interested in adding a feature or [fixing a bug](https://github.com/ahmedelserafy7/Pagie/issues)? Then by all means [submit an issue](https://github.com/ahmedelserafy7/Pagie/issues/new) or [pull request](https://help.github.com/articles/using-pull-requests/). If this is your first pull request, it may be helpful to read up on the [GitHub Flow](https://guides.github.com/introduction/flow/) first.
+Having trouble working with Pagie? Found a typo in the implementation? Interested in adding a feature or [fixing a bug](https://github.com/ahmedelserafy7/Pagie/issues)? Then by all means [submit an issue](https://github.com/ahmedelserafy7/Pagie/issues/new) or [pull request](https://help.github.com/articles/using-pull-requests/). If this is your first pull request, it may be helpful to read up on the [GitHub Flow](https://guides.github.com/introduction/flow/) first.
 
 **Please keep this in mind when requesting features and/or submitting pull requests:**
 - Pagie is developed completely in the open, and your contributions are more than welcome.
 - Pagie has been designed as a base for you to customize and fit your page's unique needs. 
-- It’s highly recommended that you spend a few minutes familiarizing yourself with its documentation and internal implementation, so that you’ll be ready to tackle any issues or edge cases that you might encounter.
+- It’s highly recommended that you spend a few minutes familiarizing yourself with its internal implementation, so that you’ll be ready to tackle any issues or edge cases that you might encounter.
 
 ### Pull Requests
 
