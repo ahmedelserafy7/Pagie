@@ -36,7 +36,7 @@ pod 'Pagie'
 
 ## Usage
 
-1. First thing first, all you have to do is to import it:
+1. First things first, all you have to do is to import it:
 
 ```swift
 import Pagie
@@ -62,7 +62,7 @@ pageControl.numberOfPages = self.pages.count
 ```
 
 ### Note:
- - Don't forget to add your images to `assets`
+ - Don't forget to add your images to the `Assets.xcassets` file of your project.
 
 ## Demo
 <img src= "https://i.imgur.com/sRPhhd4.gif" height="560" alt="repetition">
